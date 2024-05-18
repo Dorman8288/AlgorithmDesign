@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\2SatSolver\bin\Debug\net5.0\2SatSolver.exe
+C:\Users\User\source\repos\2SatSolver\bin\Debug\net5.0\2SatSolver.deps.json
+C:\Users\User\source\repos\2SatSolver\bin\Debug\net5.0\2SatSolver.runtimeconfig.json
+C:\Users\User\source\repos\2SatSolver\bin\Debug\net5.0\2SatSolver.runtimeconfig.dev.json
+C:\Users\User\source\repos\2SatSolver\bin\Debug\net5.0\2SatSolver.dll
+C:\Users\User\source\repos\2SatSolver\bin\Debug\net5.0\2SatSolver.pdb
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.AssemblyInfo.cs
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.dll
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\ref\2SatSolver.dll
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.pdb
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\2SatSolver.genruntimeconfig.cache
+C:\Users\User\source\repos\2SatSolver\obj\Debug\net5.0\refint\2SatSolver.dll

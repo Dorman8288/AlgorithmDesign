@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TravellingSalesMan\bin\Debug\net5.0\TravellingSalesMan.exe
+C:\Users\User\source\repos\TravellingSalesMan\bin\Debug\net5.0\TravellingSalesMan.deps.json
+C:\Users\User\source\repos\TravellingSalesMan\bin\Debug\net5.0\TravellingSalesMan.runtimeconfig.json
+C:\Users\User\source\repos\TravellingSalesMan\bin\Debug\net5.0\TravellingSalesMan.runtimeconfig.dev.json
+C:\Users\User\source\repos\TravellingSalesMan\bin\Debug\net5.0\TravellingSalesMan.dll
+C:\Users\User\source\repos\TravellingSalesMan\bin\Debug\net5.0\TravellingSalesMan.pdb
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.AssemblyInfo.cs
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.dll
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\ref\TravellingSalesMan.dll
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.pdb
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\TravellingSalesMan.genruntimeconfig.cache
+C:\Users\User\source\repos\TravellingSalesMan\obj\Debug\net5.0\refint\TravellingSalesMan.dll

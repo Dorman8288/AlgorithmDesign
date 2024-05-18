@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\String Algorithms\Clustering\bin\Debug\net5.0\Clustering.exe
+C:\Users\User\source\repos\String Algorithms\Clustering\bin\Debug\net5.0\Clustering.deps.json
+C:\Users\User\source\repos\String Algorithms\Clustering\bin\Debug\net5.0\Clustering.runtimeconfig.json
+C:\Users\User\source\repos\String Algorithms\Clustering\bin\Debug\net5.0\Clustering.runtimeconfig.dev.json
+C:\Users\User\source\repos\String Algorithms\Clustering\bin\Debug\net5.0\Clustering.dll
+C:\Users\User\source\repos\String Algorithms\Clustering\bin\Debug\net5.0\ref\Clustering.dll
+C:\Users\User\source\repos\String Algorithms\Clustering\bin\Debug\net5.0\Clustering.pdb
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.AssemblyInfo.cs
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.dll
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\ref\Clustering.dll
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.pdb
+C:\Users\User\source\repos\String Algorithms\Clustering\obj\Debug\net5.0\Clustering.genruntimeconfig.cache

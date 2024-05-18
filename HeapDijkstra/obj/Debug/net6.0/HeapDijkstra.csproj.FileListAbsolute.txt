@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\bin\Debug\net6.0\HeapDijkstra.exe
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\bin\Debug\net6.0\HeapDijkstra.deps.json
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\bin\Debug\net6.0\HeapDijkstra.runtimeconfig.json
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\bin\Debug\net6.0\HeapDijkstra.dll
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\bin\Debug\net6.0\HeapDijkstra.pdb
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.AssemblyInfo.cs
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.dll
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\refint\HeapDijkstra.dll
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.pdb
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\HeapDijkstra.genruntimeconfig.cache
+C:\Users\User\source\repos\HeapDijkstra\HeapDijkstra\obj\Debug\net6.0\ref\HeapDijkstra.dll

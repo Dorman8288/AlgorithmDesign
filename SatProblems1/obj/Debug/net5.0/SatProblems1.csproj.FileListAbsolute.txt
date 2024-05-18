@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SatProblems1\bin\Debug\net5.0\SatProblems1.exe
+C:\Users\User\source\repos\SatProblems1\bin\Debug\net5.0\SatProblems1.deps.json
+C:\Users\User\source\repos\SatProblems1\bin\Debug\net5.0\SatProblems1.runtimeconfig.json
+C:\Users\User\source\repos\SatProblems1\bin\Debug\net5.0\SatProblems1.runtimeconfig.dev.json
+C:\Users\User\source\repos\SatProblems1\bin\Debug\net5.0\SatProblems1.dll
+C:\Users\User\source\repos\SatProblems1\bin\Debug\net5.0\SatProblems1.pdb
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.AssemblyInfo.cs
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.dll
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\ref\SatProblems1.dll
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.pdb
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\SatProblems1.genruntimeconfig.cache
+C:\Users\User\source\repos\SatProblems1\obj\Debug\net5.0\refint\SatProblems1.dll

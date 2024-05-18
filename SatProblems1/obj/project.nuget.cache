@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+rZGFy4SXwy6xayMQr+VN5ZaEWGr/tRPxtWko7IBm6PDUWsSYgRTgfP+Cs1qJotGQs8u44Q4uG9brJgEtRUgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\SatProblems1\\SatProblems1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

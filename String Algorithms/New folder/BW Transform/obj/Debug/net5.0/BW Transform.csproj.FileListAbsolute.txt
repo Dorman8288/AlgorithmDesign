@@ -1,0 +1,16 @@
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.csproj.AssemblyReference.cache
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.AssemblyInfoInputs.cache
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.AssemblyInfo.cs
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\bin\Debug\net5.0\BW Transform.exe
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\bin\Debug\net5.0\BW Transform.deps.json
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\bin\Debug\net5.0\BW Transform.runtimeconfig.json
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\bin\Debug\net5.0\BW Transform.runtimeconfig.dev.json
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\bin\Debug\net5.0\BW Transform.dll
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\bin\Debug\net5.0\ref\BW Transform.dll
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\bin\Debug\net5.0\BW Transform.pdb
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.dll
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\ref\BW Transform.dll
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.pdb
+C:\Users\User\Documents\String Algorithms\New folder\BW Transform\obj\Debug\net5.0\BW Transform.genruntimeconfig.cache

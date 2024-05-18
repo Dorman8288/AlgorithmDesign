@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\IndependentSets\bin\Debug\net5.0\IndependentSets.exe
+C:\Users\User\source\repos\IndependentSets\bin\Debug\net5.0\IndependentSets.deps.json
+C:\Users\User\source\repos\IndependentSets\bin\Debug\net5.0\IndependentSets.runtimeconfig.json
+C:\Users\User\source\repos\IndependentSets\bin\Debug\net5.0\IndependentSets.runtimeconfig.dev.json
+C:\Users\User\source\repos\IndependentSets\bin\Debug\net5.0\IndependentSets.dll
+C:\Users\User\source\repos\IndependentSets\bin\Debug\net5.0\IndependentSets.pdb
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.AssemblyInfo.cs
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.dll
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\ref\IndependentSets.dll
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.pdb
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\IndependentSets.genruntimeconfig.cache
+C:\Users\User\source\repos\IndependentSets\obj\Debug\net5.0\refint\IndependentSets.dll

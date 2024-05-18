@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKSQ9L5/2k3vzXgMQuOP7MEKao/lZ6QI6OpAdnbi8nVO9ZR9gbaHnxQaSCb0WLi+qK000vHG2B+fiizfsfb1Tw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Code\\2SatSolver\\2SatSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}

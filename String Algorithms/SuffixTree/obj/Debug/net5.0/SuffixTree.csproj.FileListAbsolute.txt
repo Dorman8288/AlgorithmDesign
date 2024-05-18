@@ -1,0 +1,16 @@
+C:\Users\User\Documents\String Algorithms\SuffixTree\bin\Debug\net5.0\SuffixTree.exe
+C:\Users\User\Documents\String Algorithms\SuffixTree\bin\Debug\net5.0\SuffixTree.deps.json
+C:\Users\User\Documents\String Algorithms\SuffixTree\bin\Debug\net5.0\SuffixTree.runtimeconfig.json
+C:\Users\User\Documents\String Algorithms\SuffixTree\bin\Debug\net5.0\SuffixTree.runtimeconfig.dev.json
+C:\Users\User\Documents\String Algorithms\SuffixTree\bin\Debug\net5.0\SuffixTree.dll
+C:\Users\User\Documents\String Algorithms\SuffixTree\bin\Debug\net5.0\SuffixTree.pdb
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.csproj.AssemblyReference.cache
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.AssemblyInfoInputs.cache
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.AssemblyInfo.cs
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.dll
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\ref\SuffixTree.dll
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.pdb
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\SuffixTree.genruntimeconfig.cache
+C:\Users\User\Documents\String Algorithms\SuffixTree\obj\Debug\net5.0\refint\SuffixTree.dll
